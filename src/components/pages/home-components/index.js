@@ -1,0 +1,10 @@
+export { Navbar } from "./navbar";
+export { Hero } from "./hero";
+export { Trusted } from "./trusted";
+export { Partners } from "./partners";
+export { Socielity } from "./socielity";
+export { Know } from "./know";
+export { Faq } from "./faq";
+export { Platform } from "./platform";
+export { Subscribe } from "./subscribe";
+export { Footer } from "./footer";
